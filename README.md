@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Kamil Ahmed.
 - 👀 I’m interested in anything related to software engineering.
-- 🌱 I’m currently learning computer science and the languages, Python, C++ and Bash. I am also learning some cybersecurity using Kali Linux.
-- 💞️ I’m looking to collaborate on different companies such as Google , Bloomberg, Microsoft , Con Ed.
+- 🌱 I’m currently learning computer science and the languages, Python, C++ and React.
+- 💞️ I’m looking to collaborate on different companies such as Google , Bloomberg, Microsoft , Amazon.
 - 📫 You can reach through my email, kamil.ahmed10301@gmail.com.
 
 <!---
